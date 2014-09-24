@@ -1,0 +1,13 @@
+usr/bin/vala-0.26
+usr/bin/valac-0.26
+usr/bin/vala-gen-introspect-0.26
+usr/bin/vapigen-0.26
+usr/bin/vapicheck-0.26
+usr/share/man/man1/valac-0.26.1
+usr/share/man/man1/vapigen-0.26.1
+usr/share/man/man1/vala-gen-introspect-0.26.1
+usr/share/pkgconfig/vapigen-0.26.pc /usr/lib/#DEB_HOST_MULTIARCH#/pkgconfig/
+usr/lib/*/vala-0.26/gen-introspect-0.26
+vala.m4 /usr/share/vala-0.26/
+vapigen/vapigen.m4 /usr/share/vala-0.26/
+vapigen/Makefile.vapigen /usr/share/vala-0.26/
